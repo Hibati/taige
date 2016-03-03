@@ -148,8 +148,8 @@ zh-tw:
   generate_thingtweet_arduino_code: "生成 ThingTweet Arduino Code"
   get_started: "開始"
   height: "高"
-  home_motto: "創客派泰集雲"
-  home_tagline: "感測器訊號收集與控制的平台。"
+  home_motto: "泰集雲"
+  home_tagline: "感測器管理平台。"
   hour: '小時'
   import: "匯入"
   latitude: "緯"
