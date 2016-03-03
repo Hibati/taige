@@ -1,0 +1,10 @@
+/*Bootstrap override*/
+.navbar-inverse{
+    background-image: linear-gradient(#318DE3 , #319CE2 50%, #318DE3);
+    background-image: -webkit-linear-gradient(#318DE3, #319CE2 50%, #318DE3);
+}
+.panel-info > .panel-heading {
+    color: #3a87ad;
+    background-color: #318DE3;
+    border-color: #dddddd;
+}
